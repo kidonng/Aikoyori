@@ -10,7 +10,7 @@ I am Aikoyori
 
 
 <a align="center" href="https://github.com/Aikoyori">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aikoyori&theme=tokyonight" /> &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aikoyori&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aikoyori&theme=tokyonight&layout=compact" />
 </a>
 
