@@ -1,12 +1,12 @@
 ### Hi there! 
 I am Aikoyori
 
-- 🔭 I’m currently working on FNF mods and school stuff
+- 🔭 I’m currently working on whatever I am working on and maybe university stuff
 - 🌱 I’m currently learning computer science
 - 💬 Ask me about anything
 - 📫 How to reach me: [here](https://aikoyori.xyz/links)
 - 😄 Pronouns: anything but usually he/him,they/them
-- ⚡ Fun fact: I am dumb
+- ⚡ Fun fact: I am dumbest at my peak genius moment
 
 
 <a align="center" href="https://github.com/Aikoyori">
