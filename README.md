@@ -1,6 +1,8 @@
 ### Hi there! 
 I am Aikoyori
 
+deezu nuts hello amogus
+
 - 🔭 I’m currently working on whatever I am working on and maybe university stuff
 - 🌱 I’m currently learning computer science
 - 💬 Ask me about anything
