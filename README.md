@@ -14,6 +14,9 @@ I am Aikoyori
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aikoyori&theme=tokyonight&layout=compact" />
 </a>
 
+# Notice about my Minecraft mods
+If you want me to **update** (not backport) a mod to a certain version above the mod's current version, feel free to make a pull request on the mod so I can update it when I have time. Although some mods will get updated by me.
+
 <!--
 **Aikoyori/Aikoyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
