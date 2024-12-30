@@ -4,7 +4,7 @@ I am Aikoyori
 - 🔭 I’m currently working on whatever I am working on and maybe university stuff
 - 🌱 I’m currently learning computer science
 - 💬 Ask me about anything
-- 📫 How to reach me: [here](https://aikoyori.xyz/#links)
+- 📫 How to reach me: [here](https://aikoyori.xyz/links)
 - 😄 Pronouns: any really
 - ⚡ Fun fact: I am dumbest at my peak genius moment
 
